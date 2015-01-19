@@ -29,7 +29,7 @@ Make sure you have jekyll installed (`gem install jekyll`), and run:
 
     $ jekyll serve
 
-The pages will be available at http://localhost:4000/
+The pages will be available at [localhost:4000](http://localhost:4000)
 
 Every guide except for the Command and Specification Reference is just a
 straight up markdown page, so just go edit it!
